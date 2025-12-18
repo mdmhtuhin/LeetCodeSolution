@@ -4,6 +4,13 @@
 
 **Language:** Ruby
 
+### Performance
+
+- **Runtime:** 0
+ms (100.00%)
+- **Memory:** 211.55
+MB (61.81%)
+
 ## Description
 
 Given an integer `x`, return `true` if `x` is a palindrome, and `false` otherwise.
