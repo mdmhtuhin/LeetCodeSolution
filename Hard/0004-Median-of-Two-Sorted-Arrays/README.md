@@ -1,13 +1,8 @@
-# [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/)
+# [4. Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/submissions/1863206946/)
 
 **Difficulty:** Hard
 
 **Language:** Ruby
-
-### Performance
-
-- **Runtime:** 0 ms (%)
-- **Memory:**  (%)
 
 ## Description
 
