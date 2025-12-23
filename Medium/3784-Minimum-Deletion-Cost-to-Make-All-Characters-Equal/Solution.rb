@@ -1,10 +1,11 @@
+# Time: 304 ms (20.00%), Space: 231.10 MB (20.00%)
+
 # @param {String} s
 # @param {Integer[]} cost
 # @return {Integer}
 def min_cost(s, cost)
     min_cost = Float::INFINITY
     cost_of_chars = {}
-    i = 0
     total_cost = cost.sum
     s.each_char.with_index do |ch, index|
         if cost_of_chars.keys.include?(ch)
