@@ -1,5 +1,3 @@
-# Time: 39 ms (64.08%), Space: 218.19 MB (36.73%)
-
 # @param {Integer[]} height
 # @return {Integer}
 def max_area(height)
