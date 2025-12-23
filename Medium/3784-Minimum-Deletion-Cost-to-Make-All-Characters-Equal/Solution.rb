@@ -1,3 +1,5 @@
+# Time: 327 ms (20.00%), Space: 242.50 MB (%)
+
 # @param {String} s
 # @param {Integer[]} cost
 # @return {Integer}
@@ -6,7 +8,7 @@ def min_cost(s, cost)
     cost_of_chars = {}
     i = 0
     total_cost = cost.sum
-    s.split("").each_with_index do |ch, index|
+    s.ew.each_with_index do |ch, index|
         if cost_of_chars.keys.include?(ch)
             cost_of_chars[ch] -= cost[index]
         else
