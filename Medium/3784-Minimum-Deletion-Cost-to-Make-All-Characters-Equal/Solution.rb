@@ -8,7 +8,7 @@ def min_cost(s, cost)
     total_cost = cost.sum
     cost_of_chars = Hash.new(total_cost)
     s.each_char.with_index do |ch, index|
-        cost_of_chars[ch] -= 
+        cost_of_chars[ch] -= cost
     end
 
     cost_of_chars.each do |k, v|
