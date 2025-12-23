@@ -10,6 +10,6 @@ def min_cost(s, cost)
         cost_of_chars[ch] -= cost[index]
     end
 
-    cost_of_chars.val
+    cost_of_chars.values.min
     
 end
