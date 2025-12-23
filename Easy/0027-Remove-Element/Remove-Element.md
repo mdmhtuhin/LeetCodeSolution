@@ -1,13 +1,8 @@
-# [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/906671660/)
+# [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 
 **Difficulty:** Easy
 
 **Language:** JavaScript
-
-### Performance
-
-- **Runtime:** 72 ms (3.65%)
-- **Memory:** 211 MB (100.00%)
 
 ## Description
 
