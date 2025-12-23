@@ -1,8 +1,13 @@
-# [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/)
+# [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 
 **Difficulty:** Easy
 
-**Language:** Ruby
+**Language:** JavaScript
+
+### Performance
+
+- **Runtime:** 8 ms (71.14%)
+- **Memory:** 211.72 MB (10.98%)
 
 ## Description
 
