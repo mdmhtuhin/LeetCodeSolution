@@ -1,4 +1,4 @@
-# [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1863241699/)
+# [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1863249640/)
 
 **Difficulty:** Medium
 
