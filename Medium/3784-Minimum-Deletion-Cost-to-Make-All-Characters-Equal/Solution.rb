@@ -12,9 +12,7 @@ def min_cost(s, cost)
     end
 
     cost_of_chars.each_value do |v|
-        if v < min_cost
-            min_cost = v
-
+            min_cost = v 
     end
     min_cost
     
