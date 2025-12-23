@@ -1,13 +1,8 @@
-# [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/?source=submission-ac)
+# [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/description/?source=submission-ac)
 
 **Difficulty:** Medium
 
 **Language:** Ruby
-
-### Performance
-
-- **Runtime:** 39 ms (64.08%)
-- **Memory:** 218.19 MB (36.73%)
 
 ## Description
 
