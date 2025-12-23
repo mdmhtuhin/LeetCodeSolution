@@ -1,5 +1,3 @@
-# Time: 0 ms (%), Space:  (%)
-
 # @param {Integer[]} height
 # @return {Integer}
 def max_area(height)
