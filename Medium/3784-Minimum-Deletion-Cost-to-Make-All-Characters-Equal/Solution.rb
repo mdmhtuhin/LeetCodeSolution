@@ -6,6 +6,7 @@
 def min_cost(s, cost)
     min_cost = Float::INFINITY
     total_cost = cost.sum
+        cost_of_chars = {}
     s.each_char.with_index do |ch, index|
         if cost_of_chars.keys.include?(ch)
             cost_of_chars[ch] -= cost[index]
