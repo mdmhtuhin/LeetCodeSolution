@@ -1,8 +1,13 @@
-# [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1863164546/)
+# [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1863166348/)
 
 **Difficulty:** Easy
 
-**Language:** C
+**Language:** C++
+
+### Performance
+
+- **Runtime:** 0 ms (%)
+- **Memory:**  (%)
 
 ## Description
 
