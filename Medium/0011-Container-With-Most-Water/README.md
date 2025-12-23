@@ -4,11 +4,6 @@
 
 **Language:** JavaScript
 
-### Performance
-
-- **Runtime:** 50 ms (15.10%)
-- **Memory:** 218.20 MB (19.18%)
-
 ## Description
 
 You are given an integer array `height` of length `n`. There are `n` vertical lines drawn such that the two endpoints of the `ith` line are `(i, 0)` and `(i, height[i])`.
