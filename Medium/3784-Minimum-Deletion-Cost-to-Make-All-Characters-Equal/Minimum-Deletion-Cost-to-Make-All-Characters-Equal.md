@@ -1,8 +1,13 @@
-# [3784. Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/description/)
+# [3784. Minimum Deletion Cost to Make All Characters Equal](https://leetcode.com/problems/minimum-deletion-cost-to-make-all-characters-equal/)
 
 **Difficulty:** Medium
 
 **Language:** Ruby
+
+### Performance
+
+- **Runtime:** 327 ms (20.00%)
+- **Memory:** 242.50 MB (%)
 
 ## Description
 
