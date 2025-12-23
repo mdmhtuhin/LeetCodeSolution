@@ -1,8 +1,8 @@
-# [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/)
+# [2529. Maximum Count of Positive Integer and Negative Integer](https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/submissions/1863137224/)
 
 **Difficulty:** Easy
 
-**Language:** Ruby
+**Language:** JavaScript
 
 ## Description
 
