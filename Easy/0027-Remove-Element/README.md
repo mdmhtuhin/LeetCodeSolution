@@ -1,8 +1,8 @@
-# [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+# [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1863164546/)
 
 **Difficulty:** Easy
 
-**Language:** Ruby
+**Language:** C
 
 ## Description
 
