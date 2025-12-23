@@ -4,6 +4,11 @@
 
 **Language:** Ruby
 
+### Performance
+
+- **Runtime:** 304 ms (20.00%)
+- **Memory:** 231.10 MB (20.00%)
+
 ## Description
 
 You are given a string `s` of length `n` and an integer array `cost` of the same length, where `cost[i]` is the cost to delete the `ith` character of `s`.
