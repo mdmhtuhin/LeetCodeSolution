@@ -1,8 +1,13 @@
-# [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
+# [27. Remove Element](https://leetcode.com/problems/remove-element/)
 
 **Difficulty:** Easy
 
-**Language:** JavaScript
+**Language:** Ruby
+
+### Performance
+
+- **Runtime:** 0 ms (%)
+- **Memory:** 53.6 MB (%)
 
 ## Description
 
