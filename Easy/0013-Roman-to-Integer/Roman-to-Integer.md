@@ -4,11 +4,6 @@
 
 **Language:** JavaScript
 
-### Performance
-
-- **Runtime:** 8 ms (71.14%)
-- **Memory:** 211.72 MB (10.98%)
-
 ## Description
 
 Roman numerals are represented by seven different symbols: `I`, `V`, `X`, `L`, `C`, `D` and `M`.
