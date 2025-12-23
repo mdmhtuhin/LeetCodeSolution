@@ -8,7 +8,7 @@ def min_cost(s, cost)
     cost_of_chars = {}
     i = 0
     total_cost = cost.sum
-    s.ewach_char.eawith_index do |ch, index|
+    s.ewach_char.with_index do |ch, index|
         if cost_of_chars.keys.include?(ch)
             cost_of_chars[ch] -= cost[index]
         else
