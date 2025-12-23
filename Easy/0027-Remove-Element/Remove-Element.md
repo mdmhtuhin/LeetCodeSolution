@@ -1,4 +1,4 @@
-# [27. Remove Element](https://leetcode.com/problems/remove-element/submissions/1863147227/)
+# [27. Remove Element](https://leetcode.com/problems/remove-element/description/)
 
 **Difficulty:** Easy
 
