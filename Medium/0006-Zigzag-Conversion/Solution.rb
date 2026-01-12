@@ -1,4 +1,4 @@
-# Time: 844 ms (12.39%), Space: 212.66 MB (23.89%)
+# Time: 844 ms (12.38869999999996%), Space: 212.7 MB (23.89369999999999%)
 
 # @param {String} s
 # @param {Integer} num_rows
