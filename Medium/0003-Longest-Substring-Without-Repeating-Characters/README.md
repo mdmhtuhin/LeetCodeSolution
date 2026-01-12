@@ -1,13 +1,13 @@
-# [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/1883243156/)
+# [3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 
 **Difficulty:** Medium
 
-**Language:** Ruby
+**Language:** ruby
 
 ### Performance
 
-- **Runtime:** 143 ms (23.88%)
-- **Memory:** 211.68 MB (64.78%)
+- **Runtime:** 143 ms (23.878199999999946%)
+- **Memory:** 211.7 MB (64.77539999999999%)
 
 ## Description
 
@@ -49,6 +49,6 @@ Notice that the answer must be a substring, "pwke" is a subsequence and not a su
 Constraints:
 
 
-	`0 <= s.length <= 5 * 104`
+	`0 4`
 	`s` consists of English letters, digits, symbols and spaces.
 
