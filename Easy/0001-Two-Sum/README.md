@@ -1,13 +1,13 @@
-# [1. Two Sum](https://leetcode.com/problems/two-sum/submissions/1883242670/)
+# [1. Two Sum](https://leetcode.com/problems/two-sum/)
 
 **Difficulty:** Easy
 
-**Language:** Ruby
+**Language:** ruby
 
 ### Performance
 
-- **Runtime:** 2013 ms (9.84%)
-- **Memory:** 211.70 MB (98.48%)
+- **Runtime:** 2013 ms (9.839999999999923%)
+- **Memory:** 211.7 MB (98.4787%)
 
 ## Description
 
@@ -50,9 +50,9 @@ Output: [0,1]
 Constraints:
 
 
-	`2 <= nums.length <= 104`
-	`-109 <= nums[i] <= 109`
-	`-109 <= target <= 109`
+	`2 4`
+	`-109 9`
+	`-109 9`
 	Only one valid answer exists.
 
 
