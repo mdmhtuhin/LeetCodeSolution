@@ -1,13 +1,13 @@
-# [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/submissions/1883244599/)
+# [6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/)
 
 **Difficulty:** Medium
 
-**Language:** Ruby
+**Language:** ruby
 
 ### Performance
 
-- **Runtime:** 844 ms (12.39%)
-- **Memory:** 212.66 MB (23.89%)
+- **Runtime:** 844 ms (12.38869999999996%)
+- **Memory:** 212.7 MB (23.89369999999999%)
 
 ## Description
 
@@ -68,7 +68,7 @@ Output: "A"
 Constraints:
 
 
-	`1 <= s.length <= 1000`
-	`s` consists of English letters (lower-case and upper-case), `','` and `'.'`.
-	`1 <= numRows <= 1000`
+	`1 
+	`s` consists of English letters (lower-case and upper-case), `&#39;,&#39;` and `&#39;.&#39;`.
+	`1 
 
