@@ -1,4 +1,4 @@
-# Time: 143 ms (23.88%), Space: 211.68 MB (64.78%)
+# Time: 143 ms (23.878199999999946%), Space: 211.7 MB (64.77539999999999%)
 
 # @param {String} s
 # @return {Integer}
