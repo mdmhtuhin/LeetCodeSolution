@@ -1,6 +1,6 @@
 # 📊 LeetCode Profile: mdmhtuhin
 
-> 🔄 Last synced: January 13, 2026 | 🏆 Ranking: #1,507,782
+> 🔄 Last synced: January 14, 2026 | 🏆 Ranking: #1,497,157
 
 ---
 
@@ -9,9 +9,9 @@
 | Difficulty | Solved | Total | Progress |
 |:-----------|:------:|:-----:|:---------|
 | 🟢 Easy | **52** | 922 | `█░░░░░░░░░░░░░░░░░░░` 6% |
-| 🟡 Medium | **33** | 1985 | `░░░░░░░░░░░░░░░░░░░░` 2% |
-| 🔴 Hard | **7** | 900 | `░░░░░░░░░░░░░░░░░░░░` 1% |
-| **📊 Total** | **92** | 3807 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 🟡 Medium | **34** | 1985 | `░░░░░░░░░░░░░░░░░░░░` 2% |
+| 🔴 Hard | **8** | 900 | `░░░░░░░░░░░░░░░░░░░░` 1% |
+| **📊 Total** | **94** | 3807 | `░░░░░░░░░░░░░░░░░░░░` 2% |
 
 ---
 
@@ -19,11 +19,11 @@
 
 ```
 ┌─────────────────────────────────────────────┐
-│  🏅 Total Problems Solved: 92              │
+│  🏅 Total Problems Solved: 94              │
 ├─────────────────────────────────────────────┤
 │  🟢 Easy:   52     │  6% complete       │
-│  🟡 Medium: 33     │  2% complete       │
-│  🔴 Hard:   7      │  1% complete       │
+│  🟡 Medium: 34     │  2% complete       │
+│  🔴 Hard:   8      │  1% complete       │
 └─────────────────────────────────────────────┘
 ```
 
@@ -33,16 +33,16 @@
 
 | # | Problem | Language | Date |
 |:-:|:--------|:---------|:-----|
-| 1 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | ruby | Jan 13 |
-| 2 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | ruby | Jan 12 |
-| 3 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | ruby | Jan 11 |
-| 4 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | ruby | Jan 9 |
-| 5 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | ruby | Jan 8 |
-| 6 | [Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/) | ruby | Jan 8 |
-| 7 | [Maximum Level Sum of a Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) | ruby | Jan 6 |
-| 8 | [Maximum Matrix Sum](https://leetcode.com/problems/maximum-matrix-sum/) | ruby | Jan 6 |
-| 9 | [Four Divisors](https://leetcode.com/problems/four-divisors/) | ruby | Jan 5 |
-| 10 | [Number of Ways to Paint N × 3 Grid](https://leetcode.com/problems/number-of-ways-to-paint-n-3-grid/) | ruby | Jan 3 |
+| 1 | [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/) | ruby | Jan 14 |
+| 2 | [Separate Squares I](https://leetcode.com/problems/separate-squares-i/) | ruby | Jan 14 |
+| 3 | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | ruby | Jan 13 |
+| 4 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ruby | Jan 13 |
+| 5 | [Two Sum](https://leetcode.com/problems/two-sum/) | ruby | Jan 13 |
+| 6 | [Minimum Time Visiting All Points](https://leetcode.com/problems/minimum-time-visiting-all-points/) | ruby | Jan 13 |
+| 7 | [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/) | ruby | Jan 12 |
+| 8 | [Minimum ASCII Delete Sum for Two Strings](https://leetcode.com/problems/minimum-ascii-delete-sum-for-two-strings/) | ruby | Jan 11 |
+| 9 | [Smallest Subtree with all the Deepest Nodes](https://leetcode.com/problems/smallest-subtree-with-all-the-deepest-nodes/) | ruby | Jan 9 |
+| 10 | [Max Dot Product of Two Subsequences](https://leetcode.com/problems/max-dot-product-of-two-subsequences/) | ruby | Jan 8 |
 
 ---
 
